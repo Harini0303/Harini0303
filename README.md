@@ -6,7 +6,8 @@
 <h4>About Me🙋🏻‍♀️</h4>
 📚 I’m currently learning about Frontend and Backend technologies 😍<br>
 🎯 Future Goals: Learn more technologies - Learning to become a full-stack developer.<br>
-⚡ Fun facts: Open and friendly.
+⚡ Fun facts: Open and friendly.<br>
+📫 How to reach me: harinisree333@gmail.com 
 <hr> 
 
 **Contact me around the website:**
@@ -14,8 +15,12 @@
 <br>
 [<img src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white' alt='github' height='20'>](https://github.com/Harini0303) 
 [<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' height='20'>](https://www.linkedin.com/in/harini-s-746a37225/) 
-[<img src='https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white' height='20'>](https://www.instagram.com/_.ha.ri.ni.__/)    [<img src='https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white' height='20'>](https://www.hackerrank.com/21cs055_kpriet)       [<img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' height='20'>](harinisree333@gmail.com)  
+[<img src='https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white' height='20'>](https://www.instagram.com/_.ha.ri.ni.__/)   [<img src='https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white' height='20'>](https://www.hackerrank.com/21cs055_kpriet) [<img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' height='20'>](https://www.gmail.com/harinisree333@gmail.com)  
 <hr>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Harini0303&theme=blue-green)
+    
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Harini0303&theme=blue-green)
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Harini0303)  
 
