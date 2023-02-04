@@ -7,7 +7,6 @@
 📚 I’m currently learning about Frontend and Backend technologies 😍<br>
 🎯 Future Goals: Learn more technologies - Learning to become a full-stack developer.<br>
 ⚡ Fun facts: Open and friendly.<br>
-📫 How to reach me: harinisree333@gmail.com 
 <hr> 
 
 **Contact me around the website:**
