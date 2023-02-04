@@ -18,8 +18,6 @@
 <hr>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Harini0303&theme=blue-green)
-    
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Harini0303&theme=blue-green)
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Harini0303)  
 
