@@ -36,5 +36,5 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-![Profile views](https://gpvc.arturio.dev/Harini0303)
+<!-- ![Profile views](https://gpvc.arturio.dev/Harini0303)-->
 
