@@ -27,8 +27,8 @@
 <summary> <h3> 📈 GitHub Stats: </h3> </summary>
 
  ![](https://github-readme-stats.vercel.app/api?username=Harini0303&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
- 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Harini0303&theme=dark&hide_border=false)<br/>
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=Harini0303)  
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Harini0303&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
