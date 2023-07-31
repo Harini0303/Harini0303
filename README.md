@@ -1,6 +1,8 @@
 ### Hi there 👋, I'm *Harini..!!*
 #### I'm a Computer Science and Engineering Student at **KPRIET**
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Harini0303&label=Profile%20views&color=0e75b6&style=flat" alt="Harini0303"/> </p>
+
 
 <hr>
 <h4>About Me🙋🏻‍♀️</h4>
