@@ -13,9 +13,11 @@
 <!-- <div style="text-align: right;"><img style="float:right; right:40px; top:0px; width: 60%; display: inline-block;" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" height="70%" data-target="animated-image.originalImage"></div>-->
 </br>
 <h3 align="left" ><b>SKILLS & TECHNOLOGIES</b></h3></br>
-<p align="left"> <!--figma--><a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="30" height="30"/>
-  <!--python-->
-</a>&nbsp; &nbsp; <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/> </a> &nbsp; &nbsp;
+<p align="left"> 
+  <!--figma-->
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="30" height="30"/></a>&nbsp; &nbsp;
+   <!--python-->
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/> </a> &nbsp; &nbsp;
   <!--django-->
 <!--  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="30" height="30"/> --><!--</a>&nbsp; &nbsp;--> 
   <!--react-->
