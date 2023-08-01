@@ -33,7 +33,7 @@
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/> </a>&nbsp; &nbsp;
 
 </p>
-<h3 align="left" ><b>CODING PROFICIENCY</b></h3></br>
+<!--<h3 align="left" ><b>CODING PROFICIENCY</b></h3></br>-->
 <p align="left">
 <a href="https://www.guvi.in/rpravinkanth653" target="_blank"><img align="center" src="https://play-lh.googleusercontent.com/lAFgx9P9v6g9CGiJ4yXEghRTGikQg88xuxOg30t_licriW4ODAyXVK4NHBJj-HGILw=w480-h960-rw" alt="pravin-kanth" height="40" width="40" /></a>&nbsp;&nbsp;
 <a href="https://www.hackerrank.com/P_Kanth" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@p_kanth" height="25" width="25" /></a>&nbsp;&nbsp;&nbsp;
