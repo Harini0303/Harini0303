@@ -8,7 +8,7 @@
 <!--- 👨‍🎓 Pursuing IV BE CSE at 𝗞𝗣𝗥𝗜𝗘𝗧
 
 - 🔭 Building up my **BullSight**-->
-  <!--<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" height="40%" data-target="animated-image.originalImage">
+  <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" height="40%" data-target="animated-image.originalImage">
 
 -<!-- 📄 Check out my Resume [Here](https://drive.google.com/file/d/1PAX5RLLBq-uDSB7NLuopEkSjDQQPUusC/view?usp=sharing)-->
 
