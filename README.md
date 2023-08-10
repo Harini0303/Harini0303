@@ -10,7 +10,7 @@
 - 🔭 Building up my **BullSight**-->
   <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" height="40%" data-target="animated-image.originalImage">
 
--<!-- 📄 Check out my Resume [Here](https://drive.google.com/file/d/1PAX5RLLBq-uDSB7NLuopEkSjDQQPUusC/view?usp=sharing)-->
+<!--📄 Check out my Resume [Here](https://drive.google.com/file/d/1PAX5RLLBq-uDSB7NLuopEkSjDQQPUusC/view?usp=sharing)-->
 
 <!-- <div style="text-align: right;"><img style="float:right; right:40px; top:0px; width: 60%; display: inline-block;" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" height="70%" data-target="animated-image.originalImage"></div>-->
 </br>
