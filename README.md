@@ -1,6 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Harini0303&label=Profile%20views&color=0e75b6&style=flat" alt="Harini0303"/> </p>
 
-<h1 align="center">Hi there , I'm Harini..!!<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" height="25" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></h1>
+<h1 align="center">Hi there , I'm Harini..!! <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" height="25" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></h1>
 <h2 align="Center">Aspiring Full-Stack Developer</h2></br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Harini0303&label=Profile%20views&color=0e75b6&style=flat" alt="Harini0303"/> </p>
@@ -8,7 +8,7 @@
 <!--- 👨‍🎓 Pursuing IV BE CSE at 𝗞𝗣𝗥𝗜𝗘𝗧
 
 - 🔭 Building up my **BullSight**-->
-  <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" height="40%" data-target="animated-image.originalImage">
+  <!--<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" height="40%" data-target="animated-image.originalImage">-->
 
 <!--📄 Check out my Resume [Here](https://drive.google.com/file/d/1PAX5RLLBq-uDSB7NLuopEkSjDQQPUusC/view?usp=sharing)-->
 
@@ -35,6 +35,7 @@
    <!--<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/> </a>&nbsp; &nbsp;
 
 </p>
+
 <h3 align="left" ><b>CODING PROFICIENCY</b></h3></br>
 <p align="left">
 <a href="https://www.guvi.in/rpravinkanth653" target="_blank"><img align="center" src="https://play-lh.googleusercontent.com/lAFgx9P9v6g9CGiJ4yXEghRTGikQg88xuxOg30t_licriW4ODAyXVK4NHBJj-HGILw=w480-h960-rw" alt="pravin-kanth" height="40" width="40" /></a>&nbsp;&nbsp;
