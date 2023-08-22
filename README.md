@@ -8,7 +8,7 @@
 <h4>About Me🙋🏻‍♀️</h4>
 📚 I’m currently learning about Frontend and Backend technologies 😍<br>
 🎯 Future Goals: Learn more technologies - Learning to become a full-stack developer.<br>
-⚡ Fun facts: Open and friendly.<br>
+<!-- ⚡ Fun facts: Open and friendly.<br> -->
 <hr> 
 
 **Contact me around the website:**
