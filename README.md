@@ -19,8 +19,6 @@
 [<img src='https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white' height='20'>](https://www.instagram.com/_.ha.ri.ni.__/)   [<img src='https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white' height='20'>](https://www.hackerrank.com/21cs055_kpriet) [<img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' height='20'>](https://www.gmail.com/harinisree333@gmail.com)  
 <hr>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Harini0303&theme=neon&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
 <br>
 
 <a href="https://github.com/Harini0303?tab=repositories"><img src="https://streak-stats.demolab.com?user=Harini0303&theme=neon&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /></a>
