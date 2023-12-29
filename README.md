@@ -1,13 +1,15 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Harini0303&label=Profile%20views&color=0e75b6&style=flat" alt="Harini0303"/> </p>
 
-### Hi there 👋, I'm *Harini..!!*
-#### I'm a Computer Science and Engineering Student at **KPRIET**
+<h1 align="center"> Hi there, I'm <i>Harini Srinivasan..!!</i>  <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" height="25" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></h1>
+
+
 
 
 <hr>
 <h4>About Me🙋🏻‍♀️</h4>
 📚 I’m currently learning about Frontend and Backend technologies 😍<br>
 🎯 Future Goals: Learn more technologies - Learning to become a full-stack developer.<br>
+📚 I am Computer Science And Engineering Student at <B>KPRIET.</B>
 <!-- ⚡ Fun facts: Open and friendly.<br> -->
 <hr> 
 
@@ -21,4 +23,8 @@
 
 <br>
 
-<a href="https://github.com/Harini0303?tab=repositories"><img src="https://streak-stats.demolab.com?user=Harini0303&theme=neon&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /></a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/Harini0303?tab=repositories"><img src="https://streak-stats.demolab.com?user=Harini0303&theme=neon&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/></a>
+
+<hr>
+
+
