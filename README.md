@@ -9,7 +9,7 @@
 <h4>About Me🙋🏻‍♀️</h4>
 📚 I’m currently learning about Frontend and Backend technologies 😍<br>
 🎯 Future Goals: Learn more technologies - Learning to become a full-stack developer.<br>
-📚 I am Computer Science And Engineering Student at <B>KPRIET.</B>
+📚 I am Currently Pursuing Computer Science And Engineering at <B>KPRIET.</B>
 <!-- ⚡ Fun facts: Open and friendly.<br> -->
 <hr> 
 
