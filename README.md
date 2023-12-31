@@ -6,7 +6,7 @@
 
 
 <hr>
-<h4>About Me🙋🏻‍♀️</h4>
+<h3>About Me🙋🏻‍♀️</h3>
 📚 I’m currently learning about Frontend and Backend technologies 😍<br>
 🎯 Future Goals: Learn more technologies - Learning to become a full-stack developer.<br>
 📚 I am Currently Pursuing Computer Science And Engineering at <B>KPRIET.</B>
