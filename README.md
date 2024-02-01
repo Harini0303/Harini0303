@@ -2,9 +2,6 @@
 
 <h1 align="center"> Hi there, I'm <i>Harini Srinivasan..!!</i>  <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" height="25" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></h1>
 
-
-
-
 <hr>
 <h3>About Me🙋🏻‍♀️</h3>
 📚 I’m currently learning about Frontend and Backend technologies 😍<br>
