@@ -39,7 +39,7 @@
 <h3>Skills and Technologies:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,c,java,mysql,figma,git" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,c,java,mysql,figma,git,canva" />
   </a>
 </p>
 <hr>
