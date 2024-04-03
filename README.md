@@ -34,12 +34,12 @@
 <a href="https://www.interviewbit.com/profile/21cs055_kpriet/" target="_blank"><img align="center" src="https://img.icons8.com/bubbles/512/interviewbit.png" alt="@21cs055_kpriet" height="34" width="34" /></a>&nbsp;
 <a href="https://leetcode.com/21cs055_Harini/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pravinkanth" height="27" width="30" /></a>&nbsp;
 <a href="https://www.codechef.com/users/kpriet_21cs055" target="_blank"><img align="center" src="https://img.icons8.com/bubbles/512/codechef.png" alt="@kpriet_21cs055" height="34" width="34" /></a>&nbsp;
-<a href="https://www.codingninjas.com/studio/profile/Harini_0304" target="_blank"><img align="center" src="https://img.icons8.com/bubbles/512/coding-ninjas.png" alt="@kpriet_21cs055" height="34" width="34" /></a>&nbsp;
+<!-- <a href="https://www.codingninjas.com/studio/profile/Harini_0304" target="_blank"><img align="center" src="https://img.icons8.com/bubbles/512/coding-ninjas.png" alt="@kpriet_21cs055" height="34" width="34" /></a>&nbsp; -->
 <hr>
 <h3>Skills and Technologies:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,c,java,mysql,figma,git,canva" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,java,mysql,figma,git,canva" />
   </a>
 </p>
 <hr>
