@@ -45,10 +45,10 @@
 <hr>
 <br>
   
-![Harini's GitHub stats](https://github-readme-stats.vercel.app/api?username=Harini0303&show_icons=true&theme=radical)
+![Harini's GitHub stats](https://github-readme-stats.vercel.app/api?username=Harini0303&show_icons=true&theme=algolia)
 
 <p align="left">
-<a href="https://github.com/Harini0303?tab=repositories"><img src="https://streak-stats.demolab.com?user=Harini0303&theme=neon&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/></a> 
+<a href="https://github.com/Harini0303?tab=repositories"><img src="https://streak-stats.demolab.com?user=Harini0303&theme=algolia&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/></a> 
 </p>
 
 
