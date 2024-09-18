@@ -4,11 +4,11 @@
 
 <hr>
 <h3>About Me🙋🏻‍♀️</h3>
-📚 I’m currently learning about Frontend and Backend technologies 😍<br>
-🎯 Future Goals: Learn more technologies - Learning to become a full-stack developer.<br>
-🧾 I am Currently Pursuing Computer Science And Engineering at <B>KPRIET.</B> <br>
-😊 I am quite optimistic and persistent. <br> 
-⚡ Fun facts: Open and friendly.
+📚 I’m currently exploring <b>Frontend and Backend technologies</b> with a passion for Full Stack Development. 😍 <br>
+🎯 <b>Future Goals:</b> Aspiring Software Engineer aiming to master various technologies and become a full-stack developer. <br>
+🧾 Pursuing Computer Science and Engineering at <b>KPRIET</b>. <br>
+😊 I’m optimistic, persistent, and always eager to learn new things.<br>
+⚡ <b>Fun Fact:</b> I’m open, friendly, and always up for a challenge!
 <hr> 
 
 <h3>Contact me around the website:</h3>
