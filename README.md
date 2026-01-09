@@ -6,7 +6,6 @@
 <h3>About Me🙋🏻‍♀️</h3>
 📚 I’m currently exploring <b>Frontend and Backend technologies</b> with a passion for Full Stack Development. 😍 <br>
 🎯 <b>Future Goals:</b> Aspiring Software Engineer aiming to master various technologies and become a full-stack developer. <br>
-🧾 Pursuing Computer Science and Engineering at <b>KPRIET</b>. <br>
 😊 I’m optimistic, persistent, and always eager to learn new things.<br>
 ⚡ <b>Fun Fact:</b> I’m open, friendly, and always up for a challenge!
 <hr> 
@@ -14,15 +13,12 @@
 <h3>Contact me around the website:</h3>
 <!--
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harinisree333@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harini-srinivasan03/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/harinisree_03/) -->
-
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harini-srinivasan03/) -->
 
 <p align="center">
 &nbsp;&nbsp;<a href="mailto:harinisree333@gmail.com" target="_blank"><img align="center" src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_512px.png" alt="Harini" height="20" width="25" /></a>
 <a href="https://www.linkedin.com/in/harini-srinivasan03/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harini-srinivasan03" height="24" width="60"/></a>
 <a href="https://github.com/Harini0303" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Harini0303" height="23" width="30" /></a>&nbsp;&nbsp;
-<a href="https://www.instagram.com/harinisree_03/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harinisree_03" height="23" width="30" /></a>
 </p>
 <hr>
 
